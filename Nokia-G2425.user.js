@@ -5,7 +5,9 @@
 // @description  Display IP addresses next to device names in router interface on Nokia G-2425 router overview page
 // @author       Praveen Parsa
 // @match        http://192.168.*.*/*
-// @license     MIT
+// @license      MIT
+// @downloadURL  https://github.com/mytot/UserScript/raw/refs/heads/main/Nokia-G2425.user.js
+// @updateURL    https://github.com/mytot/UserScript/raw/refs/heads/main/Nokia-G2425.user.js
 // @grant        none
 // ==/UserScript==
 
